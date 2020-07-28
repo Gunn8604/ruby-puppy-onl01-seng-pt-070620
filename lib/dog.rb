@@ -1,1 +1,4 @@
-# Add your code here
+class Dog 
+  
+  @@all = [] #Class variable that is set to empty Array
+  
