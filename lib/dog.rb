@@ -17,4 +17,4 @@ class Dog
       puts pup.name 
     end
   end
-  
+end
